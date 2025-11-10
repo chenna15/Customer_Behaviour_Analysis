@@ -1,9 +1,35 @@
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+🛍️ Customer Shopping Behavior Analysis
+  This project analyzes customer shopping patterns using transactional data from 3,900 purchases across multiple product categories. 
+  It combines Python, SQL, and Power BI to uncover actionable insights for business strategy.
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+📊 Project Highlights
+- Data Cleaning & Feature Engineering in Python (pandas)
+- SQL Analysis using PostgreSQL for business questions
+- Interactive Dashboard built in Power BI
+- Customer Segmentation: New, Returning, Loyal
+- Revenue Insights by gender, age group, and subscription status
+- Product Trends: Top-rated, best-selling, and discount-dependent items
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+📁 Folder Structure
+├── data/                  # Raw and cleaned datasets
+├── notebooks/             # Python scripts and EDA
+├── sql/                   # SQL queries for analysis
+├── dashboard/             # Power BI visuals
+├── README.md              # Project overview
+
+
+📈 Key Insights
+- Male customers contributed 2× more revenue than female customers
+- Express shipping users spent more on average than standard shipping users
+- Top-rated products: Gloves, Sandals, Boots
+- Subscribers and repeat buyers show strong overlap
+- Highest revenue age group: Young Adults
+
+  
+💡 Business Recommendations
+- Promote subscription benefits to boost loyalty
+- Target high-revenue age groups with personalized campaigns
+- Highlight top-rated products in marketing
+- Review discount strategy to balance margins
