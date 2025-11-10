@@ -12,12 +12,6 @@
 - Product Trends: Top-rated, best-selling, and discount-dependent items
 
 
-📁 Folder Structure
-├── data/                  # Raw and cleaned datasets
-├── notebooks/             # Python scripts and EDA
-├── sql/                   # SQL queries for analysis
-├── dashboard/             # Power BI visuals
-├── README.md              # Project overview
 
 
 📈 Key Insights
